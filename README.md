@@ -14,3 +14,6 @@ Shuffle and Sort
 
 ## Screenshots
 
+![Mobile View](https://github.com/PrashantKIsHere/shuffle-and-sort/blob/main/mobile.png?raw=true)
+
+![Desktop View](https://github.com/PrashantKIsHere/shuffle-and-sort/blob/main/desktop.png?raw=true)
